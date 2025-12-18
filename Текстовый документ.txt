@@ -46,3 +46,15 @@
         "id": "8113",
         "name": "Москва"
     },
+ "address": {
+        "id": null,
+        "value": "Выберите адрес",
+        "state": "NONE"
+    },
+    "passWallets": {},
+    "loyaltyCard": {
+        "number": null,
+        "premium": null,
+        "discount": null,
+        "blocked": null
+    },
