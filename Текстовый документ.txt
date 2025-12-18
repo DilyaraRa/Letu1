@@ -58,3 +58,9 @@
         "discount": null,
         "blocked": null
     },
+ "authorizedByMode": null,
+    "avatar": "https://i.letu.ru/common/img/banners/image-2025-06-10-11-38-41-775.png",
+    "isAnonymous": true,
+    "isPhoneConfirmed": false,
+    "isLoyaltyCard": false
+}
